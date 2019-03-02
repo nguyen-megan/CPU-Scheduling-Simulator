@@ -1,0 +1,8 @@
+Strength:
+- Started on project early, thus gave me more time to think about design and test case.
+- Develop and test incrementally, I had very few bugs, and most of them are easy to fix and detect
+
+Weakness/Problems:
+- I had some minor issues with implementing a priority queue based on remaining burst time for SRTF. The online resources helped a lot.
+- I'm still not quite understand Makefile
+
